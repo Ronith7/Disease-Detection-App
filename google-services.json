@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036432775283",
+    "project_id": "cancer-detection-applica-8b0f6",
+    "storage_bucket": "cancer-detection-applica-8b0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036432775283:android:40da9155bed6631583f206",
+        "android_client_info": {
+          "package_name": "com.example.diseases_dection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5laG3nBBNjoSQ--qnjbct_9mFLpxpjqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
